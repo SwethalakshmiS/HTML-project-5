@@ -1,0 +1,269 @@
+/* /* .container{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    margin-left: 500px;
+    padding: 50px;
+    /* border radius to shape the box; to shape the corners (the 4 values)*/
+    /* border-radius: 50%;  */
+    /* take the shadow */
+    /* box-shadow: 5px 5px 5px 5px blue; */
+/* } 
+
+/*  */
+/* .eyes{
+    border: 2px solid black;
+    /* height: 100px;
+    width: 100px; */
+    /* transparent1=top,2=left,3=bottom,4=right */
+    /* border-color: black transparent transparent  transparent;
+    border-radius: 0px 50px; */
+/*  *} */
+
+/* .face{
+    height: 200px;
+    width: 200px;
+    background-color: gold;
+    border-radius: 100%;
+    margin-left: 300px;
+    position: relative;
+}
+.reye{
+    height: 12px;
+    width: 12px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: 60px;
+}
+.leye{
+    height: 12px;
+    width: 12px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
+.mouth{
+    border: 2px solid black;
+    /* height: 100px; */
+    /* width: 100px; */
+    /* border-radius: px -5px 50px 50px; */
+    /* background-color: black;  */
+    /* position: absolute;  
+    top: 130px;
+    left: 55px; */
+    /* erase the image that outside of the overflow  */
+    /* overflow: hidden; */
+/* } */
+
+/* .tongue{
+    background-color: lightcoral;
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+    top: 15px;
+    left: 7px;
+    position: absolute;
+} */
+
+/* .reye:hover{
+    background-color: red;
+    /* zoom in */
+    /* transform: scale(2); */
+/* }  */
+
+
+.face{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius:100%;
+    position: relative;
+}
+
+/* .Reye{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 90px;
+    left: 40px;
+   
+} */
+.Reye{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+}
+/* .reye{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 55px;
+    left: 45px;
+} */
+.Leye{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
+
+
+/* .reye{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 80px;
+    left: 50px;
+} */
+
+/* .leye{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 55px;
+    left: 135px;
+} */
+
+.mouth{
+    border: 3px solid black;
+    /* height: 100px; */
+    width: 90px;
+    /* border-radius: 100%; */
+    /* border-color: black  transparent transparent  transparent; */
+    position: absolute;
+    top: 140px;
+    left: 55px;
+/* } 
+
+/* nesi */
+/* 
+.Face{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 100%;
+    position: relative;
+    margin-right: 100px;
+    top: 150px;
+    left: 500px;
+}
+/* .reye{
+    border:7px solid black;
+    height:100px;
+    width:100px;
+    border-color: transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:130px;
+    left:150px;
+} */
+/* .reye{
+    border:7px solid black;
+    height:150px;
+    width:100px;
+    border-color: transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:140px;
+    left:550px;
+} */
+/* .leye{
+    border:7px solid black;
+    height:100px;
+    width:100px;
+    border-color: transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:130px;
+    left:250px;
+} */
+/* .leye{
+    border:7px solid black;
+    height:150px;
+    width:100px;
+    border-color: transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:140px;
+    left:660px;
+} */
+/* .reb{
+    border:3px solid black;
+    height:100px;
+    width:100px;
+    border-color:goldenrod transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:170px;
+    left:150px;
+} */
+/* .reb{
+    border:3px solid black;
+    height:150px;
+    width:100px;
+    border-color:goldenrod transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:225px;
+    left:550px;
+} */
+/* .leb{
+    border:3px solid black;
+    height:100px;
+    width:100px;
+    border-color: goldenrod transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:170px;
+    left:250px;
+} */
+/* .leb{
+    border:3px solid black;
+    height:150px;
+    width:100px;
+    border-color: goldenrod transparent transparent transparent;
+    border-radius:100%;
+    position: absolute;
+    top:225px;
+    left:660px;
+} */
+/* .Mouth{
+    border:8px solid black;
+    height:130px;
+    width:100px;
+    border-color:  transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:200px;
+    left:200px;
+} */
+/* .Mouth{
+    border:9px solid black;
+    height:130px;
+    width:100px;
+    border-color:  transparent transparent black transparent;
+    border-radius:100%;
+    position: absolute;
+    top:240px;
+    left:600px;
+} */ 
